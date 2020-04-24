@@ -1,20 +1,24 @@
 img {
   width: 600px;}
-h1 {color:Indianred;}
+
+
+
+
+
+
 body{
-  background-color: lightblue;
-  color: darkcyan;
-}
-body{
-  font-family: 'Poppins', sans-serif;
-  font-size: 50px;
-}
+    background-color:brown;
+    color: tan;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+  }
+h1 {color:antiquewhite;}
+
 Span{
-  font-family: 'Lobster', cursive;
-  font-size: 90px;
-}
-h1{
-  background-color: antiquewhite;
+  font-family: 'Passion One', cursive;
+  font-size: 70px;
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
 h3{
   font-style: italic;
